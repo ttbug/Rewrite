@@ -14,10 +14,10 @@
 
 [Script]
 # 获取TF信息(打开TF自动获取信息)
-http-request ^https:\/\/testflight\.apple\.com\/v3\/accounts/.*\/apps$ script-path=https://raw.githubusercontent.com/xf857/jiedian/main/TF_keys.js, requires-body=true, timeout=10, enabled=false, tag=TF_信息获取, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png
+http-request ^https:\/\/testflight\.apple\.com\/v3\/accounts/.*\/apps$ script-path=https://raw.githubusercontent.com/githubdulong/Script/master/TF_keys.js, requires-body=true, timeout=10, enabled=false, tag=TF_信息获取, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png
 
 # 自动加入TF(30分钟执行一次)
-cron "*/30 * * * ?" script-path=https://raw.githubusercontent.com/xf857/jiedian/main/Auto_join_TF.js, timeout=300, tag=加入TF测试, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png
+cron "*/30 * * * ?" script-path=https://raw.githubusercontent.com/githubdulong/Script/master/Auto_join_TF.js, timeout=300, tag=加入TF测试, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png
 
 [MITM]
 hostname = testflight.apple.com
