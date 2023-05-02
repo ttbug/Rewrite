@@ -1,8 +1,9 @@
 #!name = 自动加入TF测试
-#!desc = 使用前请仔细看链接中使用说明！
+#!desc = 定时申请TF，一旦有新的名额即刻自动加入，使用前请仔细看链接中使用说明！
 #!author = DecoAri
 #!homepage = https://github.com/DecoAri/JavaScript/blob/main/Surge/TF_keys.js
 #!icon = https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png
+#!input = APP_ID
 
 # Boxjs订阅链接：https://raw.githubusercontent.com/githubdulong/Script/master/boxjs.json
 
@@ -18,9 +19,12 @@
 # 3: 已支持同时挤🚪，支持无限TF链接
 # 4: 获取tf信息的脚本与TestFlight账户管理模块冲突，使用的时候先关一下该模块
 
+[Rule]
+DOMAIN, testflight.apple.com, PROXY
+
 [Script]
 # 自动加入TF(每1小时执行一次)
-cron "5 0-23/1 * * ?" script-path=https://raw.githubusercontent.com/chxm1023/Task/main/TestFlight/Auto_join_TF.js, timeout=150, enabled=false, tag=自动加入TF, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png
+cron "0 0-23/1 * * ?" script-path=https://raw.githubusercontent.com/chxm1023/Task/main/TestFlight/Auto_join_TF.js, timeout=150, enabled=false, tag=自动加入TF, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png
 # 获取TF信息(打开TF自动获取信息)
 http-request ^https?:\/\/testflight\.apple\.com\/v3\/accounts\/.*\/apps$ script-path=https://raw.githubusercontent.com/chxm1023/Task/main/TestFlight/TF_keys.js, timeout=10, tag=TF信息获取, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png
 # APP_ID获取(打开TF链接获取APP_ID)
