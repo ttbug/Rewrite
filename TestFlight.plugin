@@ -24,7 +24,7 @@ DOMAIN, testflight.apple.com, PROXY
 
 [Script]
 # 自动加入TF(每1小时执行一次)
-cron "0 0-23/1 * * ?" script-path=https://raw.githubusercontent.com/chxm1023/Task/main/TestFlight/Auto_join_TF.js, timeout=150, enabled=false, tag=自动加入TF, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png
+cron "0 0-23/1 * * ?" script-path=https://raw.githubusercontent.com/chxm1023/Task/main/TestFlight/Auto_join_TF.js, timeout=150, enabled=true, tag=自动加入TF, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png
 # 获取TF信息(打开TF自动获取信息)
 http-request ^https?:\/\/testflight\.apple\.com\/v3\/accounts\/.*\/apps$ script-path=https://raw.githubusercontent.com/chxm1023/Task/main/TestFlight/TF_keys.js, timeout=10, tag=TF信息获取, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png
 # APP_ID获取(打开TF链接获取APP_ID)
