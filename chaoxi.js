@@ -24,7 +24,7 @@ chxm1023.vip = {
     "is_valid" : true,
     "created_at" : 1684249596,
     "sub_cancel_at" : 0,
-    "is_lifetime_member" : false,
+    "is_lifetime_member" : true,
     "updated_at" : 1684249596,
     "premium_type" : 2
   };
