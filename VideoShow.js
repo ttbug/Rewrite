@@ -21,14 +21,12 @@ hostname = *.enjoy-mobi.com
 
 var body = $response.body;
 var chxm1023 = JSON.parse(body);
-
 const ad = '/startPageAd/getAds';
+const ua = $request.headers['User-Agent'] || $request.headers['user-agent'];
 
 if ($request.url.indexOf(ad) != -1){
   chxm1023 = {};
 }
-
-const ua = $request.headers['User-Agent'] || $request.headers['user-agent'];
 
 if (ua.indexOf('多功能视频剪辑') != -1) {
   chxm1023 = {
@@ -41,15 +39,12 @@ if (ua.indexOf('多功能视频剪辑') != -1) {
   "isRepeatBind" : "0",
   "isUsedPromocode" : "0",
   "subscrib_type" : "2",
-  "current_date" : "2023-05-24 17:07:59",
+  "current_date" : "2023-05-20 13:14:00",
   "isReportPrice" : "0",
   "product_id" : "vip_yearly_3",
-  "offerIdentifier" : "",
-  "purchase_date" : "2023-05-24 17:07:53",
+  "purchase_date" : "2023-05-20 13:14:05",
   "original_transaction_id" : "666666666666666",
   "cancellation_date" : "",
-  "offerType" : "1",
-  "grace_period_expires_date" : "",
   "promotional_offer_id" : "",
   "recallLabelType" : "0",
   "is_in_intro_offer_period" : "false",
@@ -68,14 +63,12 @@ if (ua.indexOf('VideoShow') != -1) {
   "isRepeatBind" : "0",
   "isUsedPromocode" : "0",
   "subscrib_type" : "2",
-  "current_date" : "2023-05-24 14:41:26",
+  "current_date" : "2023-05-20 13:14:00",
   "isReportPrice" : "0",
   "product_id" : "vip_privilege_yearly_3",
-  "offerIdentifier" : "",
-  "purchase_date" : "2023-05-24 14:39:20",
+  "purchase_date" : "2023-05-20 13:14:05",
   "original_transaction_id" : "666666666666666",
   "cancellation_date" : "",
-  "grace_period_expires_date" : "",
   "promotional_offer_id" : "",
   "recallLabelType" : "0",
   "is_in_intro_offer_period" : "false",
