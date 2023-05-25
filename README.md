@@ -9,7 +9,7 @@
 
 ## 已解锁App下载地址
 
-* **总数量累计：** 238
+* **总数量累计：** 246
 
 * **指示灯：**  永久💙&emsp;&emsp;~~非永久~~❤️
 
@@ -409,3 +409,19 @@
 100❤️【挖财记账】<br/>下载地址：https://t.cn/A66nU5uI
 
 101❤️【野果阅读】<br/>下载地址：https://t.cn/A6NTIw89
+
+102❤️【夸克】<br/>下载地址：https://t.cn/A69h68E2
+
+103❤️【蜗牛睡眠】<br/>下载地址：https://t.cn/A6NBzdYh
+
+104❤️【网易蜗牛读书】<br/>下载地址：https://t.cn/A6NBBLeU
+
+105❤️【DailyArt(每日艺术)】<br/>下载地址：https://t.cn/A6pv6XfN
+
+106❤️【录屏】<br/>下载地址：https://t.cn/A6pvVCrS
+
+107❤️【大神P图】<br/>下载地址：https://t.cn/A6p7eiRM
+
+108❤️【乐秀】<br/>下载地址：https://t.cn/A6p7XAT4
+
+109❤️【多功能视频剪辑】<br/>下载地址：https://t.cn/A6p7XyPT
