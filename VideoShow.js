@@ -24,10 +24,10 @@ hostname = *.videoshowiosglobalserver.com, *.enjoy-mobi.com
 
 
 var chxm1023 = JSON.parse($response.body);
+const ua = $request.headers['User-Agent'] || $request.headers['user-agent'];
 const ad = '/startPageAd/getAds';
 const vipa = '/payVerify'
 const vipb = '/imeiVerify';
-const ua = $request.headers['User-Agent'] || $request.headers['user-agent'];
 
 //去除乐秀开屏
 if ($request.url.indexOf(ad) != -1){
