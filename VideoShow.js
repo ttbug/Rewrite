@@ -52,7 +52,7 @@ if (ua.indexOf('多功能视频剪辑') != -1) {
   "grace_period_expires_date" : "",
   "promotional_offer_id" : "",
   "recallLabelType" : "0",
-  "is_in_intro_offer_period" : "true",
+  "is_in_intro_offer_period" : "false",
   "msg" : "验证成功",
   "expires_date" : "2099-09-09 09:09:09"
 };}
