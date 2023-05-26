@@ -17,11 +17,9 @@
 **************************************
 
 [rewrite_local]
-
 ^https:\/\/api-.*\.meitu\.com\/(.+\/user\/vip_info|user\/show) url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/mtxl.js
 
 [mitm]
-
 hostname = api-*.meitu.com
 
 *************************************/
