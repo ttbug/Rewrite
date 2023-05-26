@@ -2,7 +2,9 @@
 
 项目名称：极简扫描
 下载地址：https://t.cn/A6KJaeDD
-使用声明：仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
+脚本作者：chxm1023
+电报频道：https://t.me/chxm1023
+使用声明：⚠️仅供参考，🈲转载与售卖！
 
 **************************************
 
@@ -10,14 +12,13 @@
 ^https:\/\/cn\.czur\.cc\/api\/v3\/User\/info?(.*?) url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/jjsm.js
 
 [mitm]
-
 hostname = cn.czur.cc
 
 *************************************/
 
 var chxm1023 = JSON.parse($response.body);
 
-    chxm1023 = {
+chxm1023 = {
   "msg" : "Success",
   "body" : {
     "vipStartOn" : null,
@@ -56,11 +57,7 @@ var chxm1023 = JSON.parse($response.body);
     "remainingPdf" : -1
   },
   "code" : 1000
-}
-
-
-
-
+};
 
 $done({body : JSON.stringify(chxm1023)});
 
