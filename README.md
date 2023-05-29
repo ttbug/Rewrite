@@ -217,6 +217,8 @@
 
 078❤️【aDiary-待办日记本】<br/>下载地址：https://t.cn/A6NiI4mt
 
+079💙【年轮3】<br/>下载地址：https://t.cn/A6pZiooP
+
 ### 其他解锁<br/>
 001💙【Nicegram-第三方电报】<br/>下载地址：https://t.cn/A6ou0MCe
 
@@ -425,3 +427,5 @@
 108❤️【乐秀】<br/>下载地址：https://t.cn/A6p7XAT4
 
 109❤️【多功能视频剪辑】<br/>下载地址：https://t.cn/A6p7XyPT
+
+110💙【iTranslate 翻译】<br/>下载地址：https://t.cn/A6p2IR1g
