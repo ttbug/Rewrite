@@ -9,7 +9,7 @@
 
 ## 已解锁App下载地址
 
-* **总数量累计：** 246
+* **总数量累计：** 253
 
 * **指示灯：**  永久💙&emsp;&emsp;~~非永久~~❤️
 
@@ -218,6 +218,8 @@
 078❤️【aDiary-待办日记本】<br/>下载地址：https://t.cn/A6NiI4mt
 
 079💙【年轮3】<br/>下载地址：https://t.cn/A6pZiooP
+
+080💙【Gemini Photos】<br/>下载地址：https://t.cn/A6p23yIj
 
 ### 其他解锁<br/>
 001💙【Nicegram-第三方电报】<br/>下载地址：https://t.cn/A6ou0MCe
@@ -429,3 +431,11 @@
 109❤️【多功能视频剪辑】<br/>下载地址：https://t.cn/A6p7XyPT
 
 110💙【iTranslate 翻译】<br/>下载地址：https://t.cn/A6p2IR1g
+
+111💙【Icon Killer】<br/>下载地址：https://t.cn/A6py6nmc
+
+112💙【字体册】<br/>下载地址：https://t.cn/A6py6uxY
+
+113❤️【充电助手】<br/>下载地址：https://t.cn/A6py63ac
+
+114💙【声波助手】<br/>下载地址：https://t.cn/A6py610v
