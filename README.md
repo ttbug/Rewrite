@@ -14,7 +14,7 @@
 * **指示灯：**  永久💙&emsp;&emsp;~~非永久~~❤️
 
 ### Revenuecat系列<br/>
-001💙【Fileball-网络播放器】<br/>下载地址：https://t.cn/A6ScGy9g
+001💙【Fileball-已移出合集】<br/>下载地址：https://t.cn/A6ScGy9g
 
 002💙【VSCO-照片与视频编辑】<br/>下载地址：https://t.cn/AiOSSyU9
 
