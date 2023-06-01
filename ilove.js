@@ -2,16 +2,16 @@
 
 项目名称：iLove PDF
 下载地址：https://t.cn/A62Xkhs6
-使用声明：仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
+脚本作者：chxm1023
+电报频道：https://t.me/chxm1023
+使用声明：⚠️仅供参考，🈲转载与售卖！
 
 **************************************
 
 [rewrite_local]
-
 ^https:\/\/service\.ilovepdf\.com\/v1\/user url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/ilove.js
 
 [mitm]
-
 hostname = service.ilovepdf.com
 
 *************************************/
@@ -19,7 +19,7 @@ hostname = service.ilovepdf.com
 
 var chxm1023 = JSON.parse($response.body);
 
-    chxm1023 = {
+chxm1023 = {
   "id": 88846584,
   "name": "Apple",
   "email": "001701.68ecf1bf47734080a0afd313503270a8.0327@apple.com",
