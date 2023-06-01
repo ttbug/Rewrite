@@ -1,17 +1,17 @@
 /****************************************
 
-项目名称：拼图酱 解锁VIP
+项目名称：拼图酱
 下载地址：https://t.cn/AiuTkkXO
-使用声明：仅供学习与交流，请勿转载与贩卖！⚠️
+脚本作者：chxm1023
+电报频道：https://t.me/chxm1023
+使用声明：⚠️仅供参考，🈲转载与售卖！
 
 *****************************************
 
 [rewrite_local]
-
 https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/ptj.js
 
 [mitm]
-
 hostname = buy.itunes.apple.com
 
 ****************************************/
