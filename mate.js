@@ -2,17 +2,17 @@
 
 项目名称：Mate-翻译神器 解锁订阅
 下载地址：https://t.cn/A69OzKuZ
-使用声明：仅供学习与交流，请勿转载与贩卖！⚠️
+脚本作者：chxm1023
+电报频道：https://t.me/chxm1023
+使用声明：⚠️仅供参考，🈲转载与售卖！
 使用方法：先开脚本再开App，失败请重复打开App！
 
 **************************************
 
 [rewrite_local]
-
 ^https:\/\/asia\.gikken\.co\/matesync\/(subscription|login|register_user|check_user) url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/mate.js
 
 [mitm]
-
 hostname = asia.gikken.co
 
 *************************************/
