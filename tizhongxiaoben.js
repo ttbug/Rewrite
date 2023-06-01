@@ -2,17 +2,17 @@
 
 项目名称：体重小本 解锁永久VIP
 下载地址：https://t.cn/A69kYRWI
+脚本作者：chxm1023
+电报频道：https://t.me/chxm1023
+使用声明：⚠️仅供参考，🈲转载与售卖！
 使用说明：非一次性解锁，使用前打开脚本
-使用声明：仅供学习与交流，请勿转载与贩卖！⚠️
 
 **************************************
 
 [rewrite_local]
-
 ^https:\/\/api\.jitizhong\.com url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/tizhongxiaoben.js
 
 [mitm]
-
 hostname = api.jitizhong.com
 
 *************************************/
@@ -34,15 +34,15 @@ const vipb = '/weightnote/ios/usercentre/userInfo';
 const vipc = '/ios/vip/getVipInfo';
 
 if ($request.url.indexOf(vipa) != -1){
-chxm1023.data.vipInfo = (vip);
+  chxm1023.data.vipInfo = (vip);
 }
 
 if ($request.url.indexOf(vipb) != -1){
-chxm1023.data.vipInfo = (vip);
+  chxm1023.data.vipInfo = (vip);
 }
 
 if ($request.url.indexOf(vipc) != -1){
-chxm1023.data = (vip);
+  chxm1023.data = (vip);
 }
 
 $done({body : JSON.stringify(chxm1023)});
