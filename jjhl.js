@@ -2,16 +2,16 @@
 
 项目名称：极速汇率
 下载地址：https://t.cn/A6ckbDYO
-使用声明：仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
+脚本作者：chxm1023
+电报频道：https://t.me/chxm1023
+使用声明：⚠️仅供参考，🈲转载与售卖！
 
 **************************************
 
 [rewrite_local]
-
 ^https:\/\/explorer\.tratao\.com\/api\/client\/xtool\/vip url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/jjhl.js
 
 [mitm]
-
 hostname = explorer.tratao.com
 
 *************************************/
@@ -19,7 +19,7 @@ hostname = explorer.tratao.com
 
 var chxm1023 = JSON.parse($response.body);
 
-    chxm1023 = {
+chxm1023 = {
   "status": "1",
   "data": [{
     "created": "2022-12-29 11:14:26",
@@ -35,7 +35,7 @@ var chxm1023 = JSON.parse($response.body);
     "vipPayNum": 1,
     "benefits": []
   }]
-}
+};
 
 $done({body : JSON.stringify(chxm1023)});
 
