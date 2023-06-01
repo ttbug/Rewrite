@@ -2,16 +2,16 @@
 
 项目名称：计算器HD解锁会员
 下载地址：http://t.cn/A6xF7wam
-使用声明：仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
+脚本作者：chxm1023
+电报频道：https://t.me/chxm1023
+使用声明：⚠️仅供参考，🈲转载与售卖！
 
 **************************************
 
 [rewrite_local]
-
 ^https?:\/\/www\.40sishi\.com\/(list|currency|calculator)\/user\/profile$ url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/jsqhd.js
 
 [mitm] 
-
 hostname = www.40sishi.com
 
 *************************************/
