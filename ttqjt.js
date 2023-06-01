@@ -2,26 +2,22 @@
 
 项目名称：图图记账
 下载地址：https://t.cn/A6JZS4a0
-
 项目名称：WidgetArt-自定义桌面小组件
 下载地址：https://t.cn/A6GugI9C
-
 项目名称：Apollo-记录你的影视生活
 下载地址：https://t.cn/A6X7TuG8
-
 项目名称：Aphrodite
 下载地址：https://t.cn/A6MavcIV
-
-使用声明：仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
+脚本作者：chxm1023
+电报频道：https://t.me/chxm1023
+使用声明：⚠️仅供参考，🈲转载与售卖！
 
 **************************************
 
 [rewrite_local]
-
 ^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/(.*?)*$) url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/ttqjt.js
 
-[mitm] 
-
+[mitm]
 hostname = api.revenuecat.com
 
 *************************************/
