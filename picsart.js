@@ -9,7 +9,7 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/api\.meiease\.cn\/shop\/subscription\/validate url script-response-body https://raw.githubusercontent.com/chxm1023/script/main/Rewrite/picsart.js
+^https?:\/\/api\.meiease\.cn\/shop\/subscription\/validate url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/picsart.js
 
 [mitm]
 hostname = api.meiease.cn
