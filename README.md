@@ -21,7 +21,7 @@
 003 | 1Blocker<br/>广告拦截 | [点击<br/>下载](https://t.cn/A6V7PAjE) |🟢
 004 | 图图记账 | [点击<br/>下载](https://t.cn/A6JZS4a0) |🟢
 005 | 手机硬件管家 | [点击<br/>下载](https://t.cn/A659O6zK) |🟢
-006 | Tiao<br/>剪贴板管理 | 自己下载1.5.0以下版本 |🟢
+006 | Tiao<br/>剪贴板管理 | 自己<br/>下载<br/>1.5.0<br/>以下<br/>版本 |🟢
 007 | Pillow<br/>睡眠周期跟踪 | [点击<br/>下载](https://t.cn/A6oupMnR) |🟢
 008 | Scanner Pro<br/>文档扫描 | [点击<br/>下载](https://t.cn/A6o0mdwX) |🟢
 009 | Anybox<br/>跨平台书签管理及稍后读 | [点击<br/>下载](https://t.cn/A6oupXiC) |🟢
