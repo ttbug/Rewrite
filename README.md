@@ -116,9 +116,9 @@
 072 | PrettyUp<br/>视频P图 | [点击<br/>下载](https://t.cn/A6ChGQgY) |🔴
 074 | 谜底时钟 | [点击<br/>下载](https://t.cn/A6og4CvR) |🔴
 075 | 高级恋爱话术 | [点击<br/>下载](https://t.cn/A6CERvg1) |🟢
-076 | 3D Scanner<br/>绘制/测量<br/>平面图 | [点击<br/>下载](https://t.cn/A6CCxxqJ) |🟢
+076 | 3D Scanner<br/>绘制/测量/平面图 | [点击<br/>下载](https://t.cn/A6CCxxqJ) |🟢
 077 | Colorful Widget<br/>小组件 | [点击<br/>下载](https://t.cn/A6N4oF3J) |🟢
-078 | iScreen<br/>桌面小组件<br/>主题美化 | [点击<br/>下载](https://t.cn/A6MsPY5O) |🟢
+078 | iScreen<br/>桌面小组件主题美化 | [点击<br/>下载](https://t.cn/A6MsPY5O) |🟢
 079 | aDiary<br/>待办日记本 | [点击<br/>下载](https://t.cn/A6NiI4mt) |🔴
 080 | 年轮3 | [点击<br/>下载](https://t.cn/A6pZiooP) |🟢
 081 | Gemini Photos | [点击<br/>下载](https://t.cn/A6p23yIj) |🟢
@@ -136,18 +136,18 @@
 008 | 网速管家 | [点击<br/>下载](https://t.cn/A6ou0r5U) | 🔴
 009 | 悟饭掌悦 | [点击<br/>下载](https://t.cn/A6o114Kq) | 🔴
 010 | 酷我音乐 | [点击<br/>下载](https://t.cn/AipWyJvV) | 🔴
-011 | Emby播<br/>解锁播放 | [点击<br/>下载](https://t.cn/A6ouHd2U) | 🔴
+011 | Emby<br/>解锁播放权限 | [点击<br/>下载](https://t.cn/A6ouHd2U) | 🔴
 012 | 扫描全能王 | [点击<br/>下载](https://t.cn/A6ouHe4B) | 🔴
 013 | 百度网盘 | [点击<br/>下载](https://t.cn/A6ouHDsJ) | 🔴
 014 | 一刻相册 | [点击<br/>下载](https://t.cn/Ainbj7GV) | 🔴
 015 | 阿里云盘 | [点击<br/>下载](https://t.cn/A6GqTACm) | 🔴
 016 | Picsart美易 | [点击<br/>下载](https://t.cn/A6MxZ5q1) | 🔴
-017 | 起伏<br/>睡眠-冥想<br/>白噪音 | [点击<br/>下载](https://t.cn/A6ouQzMi) | 🔴
+017 | 起伏<br/>睡眠-冥想-白噪音 | [点击<br/>下载](https://t.cn/A6ouQzMi) | 🔴
 018 | 布丁锁屏 | [点击<br/>下载](https://t.cn/A6o11VGR) | 🔴
-019 | Wallcraft<br/>壁纸 | [点击<br/>下载](http://t.cn/A6iO7Eht) | 🟢
+019 | Wallcraft<br/>壁纸App | [点击<br/>下载](http://t.cn/A6iO7Eht) | 🟢
 020 | Symbolab计算器 | [点击<br/>下载](https://t.cn/A6cE1x9u) | 🔴
 021 | Spotify音乐播放器 | [点击<br/>下载](https://t.cn/A6xkbHKA) | 🔴
-022 | 推糖<br/>爱豆壁纸<br/>美图社区 | [点击<br/>下载](https://t.cn/Ai3pMcdl) | 🔴
+022 | 推糖<br/>爱豆壁纸美图社区 | [点击<br/>下载](https://t.cn/Ai3pMcdl) | 🔴
 023 | Boom<br/>音乐播放器 | [点击<br/>下载](https://t.cn/A6f1C1rG) | 🔴
 024 | 傲软抠图 | [点击<br/>下载](https://t.cn/A6xBOE5d) | 🔴
 025 | 傲软扫描 | [点击<br/>下载](https://t.cn/A6o1jHWR) | 🔴
@@ -157,7 +157,7 @@
 029 | 咖映<br/>虚拟直播助手 | [点击<br/>下载](https://t.cn/A6o1lsFL) | 🔴
 030 | 轻闪PDF | [点击<br/>下载](https://t.cn/A6o1iiI2) | 🔴
 031 | 乃糖小组件 | [点击<br/>下载](https://t.cn/A6o1iMdP) | 🔴
-032 | 佐糖<br/>一键抠图<br/>换背景 | [点击<br/>下载](https://t.cn/A6o1iVTI) | 🔴
+032 | 佐糖<br/>一键抠图换背景 | [点击<br/>下载](https://t.cn/A6o1iVTI) | 🔴
 033 | 佐糖<br/>照片修复 | [点击<br/>下载](https://t.cn/A6o1itzG) | 🔴
 034 | Agenda<br/>笔记 | [点击<br/>下载](https://t.cn/A6ouQyEq) | 🔴
 035 | 云听<br/>听书App | [点击<br/>下载](https://t.cn/A6ouQ21g) | 🔴
@@ -179,7 +179,7 @@
 051 | 电视家 | [点击<br/>下载](https://t.cn/A6KxaEw8) | 🔴
 052 | 极简扫描 | [点击<br/>下载](https://t.cn/A6KJaeDD) | 🔴
 053 | PhotoSlip<br/>照片清理大师 | [点击<br/>下载](https://t.cn/A6XMsIv7) | 🔴
-054 | 猫头鹰<br/>文件管理 | [点击<br/>下载](https://t.cn/A6Kotbjs) | 🔴
+054 | 猫头鹰文件管理 | [点击<br/>下载](https://t.cn/A6Kotbjs) | 🔴
 055 | 爱剪辑 | [点击<br/>下载](https://t.cn/A6KKPMgP) | 🔴
 056 | Collart | [点击<br/>下载](https://t.cn/A6KOxZ9O) | 🟢
 057 | 拼图趣 | [点击<br/>下载](https://t.cn/A6KOxIoD) | 🟢
@@ -199,12 +199,12 @@
 071 | Chic<br/>创意胶片相机 | [点击<br/>下载](https://t.cn/A6oLDrrK) | 🔴
 072 | 美颜相机 | [点击<br/>下载](https://t.cn/A69cNPHr) | 🔴
 073 | 美图秀秀 | [点击<br/>下载](https://t.cn/AiN3YLHl) | 
-074 | Fimo相机<br/>(不登录<br/>恢复购买) | [点击<br/>下载](https://t.cn/A6ouHsIk) | 🟢
+074 | Fimo相机<br/>(不登录恢复购买) | [点击<br/>下载](https://t.cn/A6ouHsIk) | 🟢
 075 | 小习惯<br/>打卡App | [点击<br/>下载](https://t.cn/A69lQVtI) | 🔴
 076 | Mate<br/>翻译神器 | [点击<br/>下载](https://t.cn/A69OzKuZ) | 🔴
 077 | 得间小说 | [点击<br/>下载](https://t.cn/A6i8BXBm) | 🔴
 078 | Moji辞书<br/>学习日语 | [点击<br/>下载](https://t.cn/A6fK4RkD) | 🔴
-079 | Batched<br/>图片编辑器 | [点击<br/>下载](https://t.cn/A69YGbhk) | 🟢
+079 | Batched<br/>多量图片编辑器 | [点击<br/>下载](https://t.cn/A69YGbhk) | 🟢
 080 | 倒数纪念日 | [点击<br/>下载](https://t.cn/A6t6nFst) | 🔴
 081 | 青柠设计<br/>P图抠图海报 | [点击<br/>下载](https://t.cn/A69gPvA3) | 🔴
 082 | 配音秀 | [点击<br/>下载](https://t.cn/A6hiqy80) | 🔴
@@ -212,7 +212,7 @@
 084 | 一天阅读 | [点击<br/>下载](https://t.cn/A6C6jqJt) | 🔴
 085 | 小时尚 | [点击<br/>下载](https://t.cn/A6Xr4Kjn) | 🔴
 086 | 计算器HD | [点击<br/>下载](http://t.cn/A6xF7wam) | 🔴
-087<br/>-<br/>092 | 万能播放器<br/>万能变声器<br/>塔罗牌<br/>Art Widget<br/>(小组件)<br/>memo<br/>(标签小组件)<br/>NFC标签<br/>读写器工具 | [点击<br/>下载](https://t.cn/A6CojaZe) | 🔴
+087<br/>-<br/>092 | 万能播放器<br/>万能变声器<br/>塔罗牌<br/>Art Widget(小组件)<br/>memo(标签小组件)<br/>NFC标签读写器工具 | [点击<br/>下载](https://t.cn/A6CojaZe) | 🔴
 093 | 薄荷健康 | [点击<br/>下载](https://t.cn/A69ull4r) | 🔴
 094 | 菜谱大全 | [点击<br/>下载](https://t.cn/AijzV2It) | 🔴
 095 | 烘培小屋 | [点击<br/>下载](https://t.cn/AipIBR88) | 🔴
