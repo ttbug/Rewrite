@@ -14,7 +14,7 @@
 * **指示灯：**  一次性🟢&emsp;&emsp;~~非一次性~~🔴
 
 ### Revenuecat系列<br/>
-序<br/>号 |App名称 |下载<br/>链接 |指<br/>示<br/>灯|
+序<br/>号 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <br/>App名称 <br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |下载链接 |指<br/>示<br/>灯
 :----:|:-----:|:-----:|:-----:|
 001 | Fileball<br/>已移出合集 | [点击<br/>下载](https://t.cn/A6ScGy9g) |🟢
 002 | VSCO<br/>照片与视频编辑 | [点击<br/>下载](https://t.cn/AiOSSyU9) |🟢
@@ -74,7 +74,7 @@
 059 | 自动点击器<br/>Auto Clicker | [点击<br/>下载](https://t.cn/A6NIJZK9) |🟢
 
 ### iTunes系列<br/>
-序<br/>号 |App名称 |下载<br/>链接 |指<br/>示<br/>灯
+序<br/>号 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <br/>App名称 <br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |下载链接 |指<br/>示<br/>灯
 :----:|:-----:|:-----:|:-----:|
 001 | TextEditor<br/>文件管理 |[点击<br/>下载](https://t.cn/A6osqlkO) |🟢
 002 | Anki Note<br/>备忘录 | [点击<br/>下载](http://t.cn/A6oTR5RT) |🔴
@@ -124,7 +124,7 @@
 081 | Gemini Photos | [点击<br/>下载](https://t.cn/A6p23yIj) |🟢
 
 ### 其他解锁<br/>
-序<br/>号 |App名称 |下载<br/>链接 |指<br/>示<br/>灯|
+序<br/>号 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <br/>App名称 <br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |下载链接 |指<br/>示<br/>灯
 :----:|:-----:|:-----:|:-----:|
 001 | Nicegram<br/>Tg电报 | [点击<br/>下载](https://t.cn/A6ou0MCe) | 🟢
 002 | 绘影字幕 | [点击<br/>下载](https://t.cn/A6oe27Yx) | 🔴
