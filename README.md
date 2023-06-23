@@ -14,7 +14,7 @@
 * **指示灯：** 永久🟢&emsp;&emsp;非永久🔴&emsp;&emsp;故障灯🟡
 
 ### Revenuecat系列<br/>
-| 序号 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Application &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Download | 指示灯 |
+| 序号 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>Application<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Download | 指示灯 |
 | :-----------------------------------------------------: | :----------------------------------------------------------: | :-----------: | :---------: |
 No.<br/>001 | [Fileball](https://raw.githubusercontent.com/chxm1023/Rewrite/main/fileball.js) <br/>(新版已失效)| [点击下载](https://t.cn/A6ScGy9g) |🟡
 No.<br/>002 | VSCO<br/>照片视频编辑 | [点击下载](https://t.cn/AiOSSyU9) |🟢
@@ -74,7 +74,7 @@ No.<br/>058 | Imagex<br/>AI图片改善图片画质 | [点击下载](https://t.c
 No.<br/>059 | 自动点击器<br/>Auto Clicker | [点击下载](https://t.cn/A6NIJZK9) |🟢
 
 ### iTunes系列<br/>
-| 序号 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Application &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Download | 指示灯 |
+| 序号 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>Application<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Download | 指示灯 |
 | :-----------------------------------------------------: | :----------------------------------------------------------: | :-----------: | :---------: |
 No.<br/>001 | TextEditor<br/>文件管理 |[点击下载](https://t.cn/A6osqlkO) |🟢
 No.<br/>002 | Anki Note<br/>备忘录 | [点击下载](http://t.cn/A6oTR5RT) |🔴
