@@ -71,7 +71,7 @@ No.<br/>055 | Personal Best<br/>运动报告 | [点击下载](https://t.cn/A6qgt
 No.<br/>056 | 西江诗词 | [点击下载](https://t.cn/A6CFTG1l) |🟢
 No.<br/>057 | Lens智图<br/>画质增强<br/>AI作画 | [点击下载](https://t.cn/A6NIfo7O) |🟢
 No.<br/>058 | Imagex<br/>AI图片改善<br/>图片画质 | [点击下载](https://t.cn/A6NI6KJY) |🟢
-NNo.<br/>059 | 自动点击器<br/>Auto Clicker | [点击下载](https://t.cn/A6NIJZK9) |🟢
+No.<br/>059 | 自动点击器<br/>Auto Clicker | [点击下载](https://t.cn/A6NIJZK9) |🟢
 
 ### iTunes系列<br/>
 | **序号** |                         **Application**                          | **Download** | **指示灯** |
@@ -116,9 +116,9 @@ No.<br/>071 | OldRoll<br/>复古相机 | [点击下载](https://t.cn/A6J8wJXV) |
 No.<br/>072 | PrettyUp<br/>视频P图 | [点击下载](https://t.cn/A6ChGQgY) |🔴
 No.<br/>074 | 谜底时钟 | [点击下载](https://t.cn/A6og4CvR) |🔴
 No.<br/>075 | 高级恋爱话术 | [点击下载](https://t.cn/A6CERvg1) |🟢
-No.<br/>076 | 3D Scanner<br/>绘制/测量/平面图 | [点击下载](https://t.cn/A6CCxxqJ) |🟢
+No.<br/>076 | 3D Scanner<br/>平面图 | [点击下载](https://t.cn/A6CCxxqJ) |🟢
 No.<br/>077 | Colorful Widget<br/>小组件 | [点击下载](https://t.cn/A6N4oF3J) |🟢
-No.<br/>078 | iScreen<br/>桌面小组件主题美化 | [点击下载](https://t.cn/A6MsPY5O) |🟢
+No.<br/>078 | iScreen<br/>小组件 | [点击下载](https://t.cn/A6MsPY5O) |🟢
 No.<br/>079 | aDiary<br/>待办日记本 | [点击下载](https://t.cn/A6NiI4mt) |🔴
 No.<br/>080 | 年轮3 | [点击下载](https://t.cn/A6pZiooP) |🟢
 No.<br/>081 | Gemini Photos | [点击下载](https://t.cn/A6p23yIj) |🟢
