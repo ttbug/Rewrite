@@ -14,25 +14,24 @@
 * **指示灯：** 永久🟢&emsp;&emsp;非永久🔴&emsp;&emsp;故障灯🟡
 
 ### Revenuecat系列<br/>
-| — | ————————————— | —————— | — |
+| **序号** |                         **Application**                          | **Download** | **指示灯** |
 | :-----------------------------------------------------: | :----------------------------------------------------------: | :-----------: | :---------: |
-| **序号** | **Application** | **Download** | **指示灯** |
 No.<br/>001 | [Fileball](https://raw.githubusercontent.com/chxm1023/Rewrite/main/fileball.js) <br/>(新版已失效)| [点击下载](https://t.cn/A6ScGy9g) |🟡
 No.<br/>002 | VSCO<br/>照片视频编辑 | [点击下载](https://t.cn/AiOSSyU9) |🟢
 No.<br/>003 | 1Blocker<br/>广告拦截 | [点击下载](https://t.cn/A6V7PAjE) |🟢
 No.<br/>004 | 图图记账 | [点击下载](https://t.cn/A6JZS4a0) |🟢
 No.<br/>005 | 手机硬件管家 | [点击下载](https://t.cn/A659O6zK) |🟢
-No.<br/>006 | Tiao<br/>剪贴板管理 | 自己下载1.5.0以下版本 |🟢
+No.<br/>006 | Tiao<br/>剪贴板管理 | 自己下载<br/>1.5.0<br/>以下版本 |🟢
 No.<br/>007 | Pillow<br/>睡眠周期跟踪 | [点击下载](https://t.cn/A6oupMnR) |🟢
 No.<br/>008 | Scanner Pro<br/>文档扫描 | [点击下载](https://t.cn/A6o0mdwX) |🟢
-No.<br/>009 | Anybox<br/>跨平台书签管理及稍后读 | [点击下载](https://t.cn/A6oupXiC) |🟢
+No.<br/>009 | Anybox<br/>跨平台书签管理<br/>及稍后读 | [点击下载](https://t.cn/A6oupXiC) |🟢
 No.<br/>010 | APTV<br/>直播流播放器 | [点击下载](https://t.cn/A6S06Lhg) |🟢
 No.<br/>011 | 目标地图 | [点击下载](https://t.cn/A6oeytwe) |🟢
 No.<br/>012 | 谜底黑胶 | [点击下载](https://t.cn/A6oeyX5Y) |🟢
 No.<br/>013 | OffScreen<br/>自律番茄钟 | [点击下载](https://t.cn/A6GJEFmx) |🟢
 No.<br/>014 | 花样文字 | [点击下载](https://t.cn/A6KxKtqG) |🟢
 No.<br/>015 | 天天豆<br/>日记应用 | [点击下载](https://t.cn/A6fgdQ4i) |🟢
-No.<br/>016 <br/>-<br/> No.<br/>019 | NotBoring<br/>天气，习惯，计算器，时间 | [点击下载](https://t.cn/A6o1YcVv) |🟢
+No.<br/>016 <br/>-<br/> No.<br/>019 | NotBoring<br/>天气，习惯，<br/>计算器，时间 | [点击下载](https://t.cn/A6o1YcVv) |🟢
 No.<br/>020 | NotePlan | [点击下载](https://t.cn/A6KVzj2S) |🟢
 No.<br/>021 | Grow<br/>健康运动 | [点击下载](https://t.cn/A6a6LKSV) |🟢
 No.<br/>022 | Spark_Mail<br/>邮箱管理 | [点击下载](https://t.cn/A6KIVclG) |🟢
@@ -43,41 +42,40 @@ No.<br/>026 | WidgetArt<br/>自定义小组件 | [点击下载](https://t.cn/A6G
 No.<br/>027 | Apollo<br/>记录影视 | [点击下载](https://t.cn/A6X7TuG8) |🟢
 No.<br/>028 | Aphrodite<br/>啪啪啪日历 | [点击下载](https://t.cn/A6MavcIV) |🟢
 No.<br/>029 | Happy:Days<br/>小组件App | [点击下载](https://t.cn/A6KyTqaH) |🟢
-No.<br/>030 | Brass一定制图标&小组件 | [点击下载](https://t.cn/A66b7Slx) |🟢
-No.<br/>031 | Email Me一给自己发邮箱 | [点击下载](https://t.cn/A6Ke5PiP) |🟢
-No.<br/>032 | Tangerine一习惯与情绪追踪 | [点击下载](https://t.cn/A6IXmXQj) |🟢
+No.<br/>030 | Brass<br/>定制图标&小组件 | [点击下载](https://t.cn/A66b7Slx) |🟢
+No.<br/>031 | Email Me<br/>给自己发邮箱 | [点击下载](https://t.cn/A6Ke5PiP) |🟢
+No.<br/>032 | Tangerine<br/>习惯与情绪追踪 | [点击下载](https://t.cn/A6IXmXQj) |🟢
 No.<br/>033 | Noto笔记 | [点击下载](https://t.cn/A62GZOSF) |🟢
 No.<br/>034 | ElementNote<br/>笔记&PDF | [点击下载](https://t.cn/A69b6yMa) |🟢
-No.<br/>035 | 小决定-选择困难症克星 | [点击下载](https://t.cn/AipMqprZ) |🟢
+No.<br/>035 | 小决定<br/>选择困难症克星 | [点击下载](https://t.cn/AipMqprZ) |🟢
 No.<br/>036 | Alpenglow<br/>日出日落 | [点击下载](https://t.cn/A69ooWm6) |🟢
 No.<br/>037 | TimeFinder<br/>提醒App | [点击下载](https://t.cn/A69YGCW8) |🟢
 No.<br/>038 | TouchRetouch<br/>水印清理 | [点击下载](https://t.cn/Ai8wl7bX) |🟢
-No.<br/>039 | bluredit一模糊视频&照片 | [点击下载](https://t.cn/A69mnM1b) |🟢
+No.<br/>039 | bluredit<br/>模糊视频&照片 | [点击下载](https://t.cn/A69mnM1b) |🟢
 No.<br/>040 | Photo Cleaner<br/>照片清理 | [点击下载](https://t.cn/A6qK2YhO) |🟢
 No.<br/>041 | Brovacy<br/>隐私浏览器 | [点击下载](https://t.cn/A69upwlg) |🟢
 No.<br/>042 | YubePiP<br/>油管播放器 | [点击下载](https://t.cn/A69B5CXH) |🟢
 No.<br/>043 | Zoomable<br/>桌面浏览器 | [点击下载](https://t.cn/A69B5oxk) |🟢
 No.<br/>044 | Startodo | [点击下载](https://t.cn/A69B5lQq) |🟢
 No.<br/>045 | Appspree | [点击下载](https://t.cn/A6otfeAc) |🟢
-No.<br/>046 | MetaSurf一社交网站浏览器 | [点击下载](https://t.cn/A6S9d1l6) |🟢
+No.<br/>046 | MetaSurf<br/>社交浏览器 | [点击下载](https://t.cn/A6S9d1l6) |🟢
 No.<br/>047 | PipDoc<br/>画中画 | [点击下载](https://t.cn/A69Bt9ca) |🟢
 No.<br/>048 | 事线<br/>串事成线 | [点击下载](https://t.cn/A696WVwt) |🟢
 No.<br/>049 | 物品指南 | [点击下载](https://t.cn/A69BiAey) |🟢
 No.<br/>050 | Cookie<br/>记账 | [点击下载](https://t.cn/A6cqfdMK) |🟢
 No.<br/>051 | InPaper<br/>创作壁纸 | [点击下载](https://t.cn/A69DvQmn) |🟢
-No.<br/>052 | 奇妙组件一轻巧桌面小组件 | [点击下载](https://t.cn/A69DP9iE) |🟢
+No.<br/>052 | 奇妙组件<br/>桌面小组件 | [点击下载](https://t.cn/A69DP9iE) |🟢
 No.<br/>053 | 卡片馆<br/>相框复古胶片 | [点击下载](https://t.cn/A6aVq4er) |🟢
 No.<br/>054 | Darkroom<br/>照片/视频编辑 | [点击下载](https://t.cn/A6Cq2beF) |🟢
 No.<br/>055 | Personal Best<br/>运动报告 | [点击下载](https://t.cn/A6qgtI88) |🟢
 No.<br/>056 | 西江诗词 | [点击下载](https://t.cn/A6CFTG1l) |🟢
-No.<br/>057 | Lens智图<br/>画质增强&AI作画 | [点击下载](https://t.cn/A6NIfo7O) |🟢
-No.<br/>058 | Imagex<br/>AI图片改善图片画质 | [点击下载](https://t.cn/A6NI6KJY) |🟢
-No.<br/>059 | 自动点击器<br/>Auto Clicker | [点击下载](https://t.cn/A6NIJZK9) |🟢
+No.<br/>057 | Lens智图<br/>画质增强<br/>AI作画 | [点击下载](https://t.cn/A6NIfo7O) |🟢
+No.<br/>058 | Imagex<br/>AI图片改善<br/>图片画质 | [点击下载](https://t.cn/A6NI6KJY) |🟢
+NNo.<br/>059 | 自动点击器<br/>Auto Clicker | [点击下载](https://t.cn/A6NIJZK9) |🟢
 
 ### iTunes系列<br/>
-| — | ————————————— | —————— | — |
+| **序号** |                         **Application**                          | **Download** | **指示灯** |
 | :-----------------------------------------------------: | :----------------------------------------------------------: | :-----------: | :---------: |
-| **序号** | **Application** | **Download** | **指示灯** |
 No.<br/>001 | TextEditor<br/>文件管理 |[点击下载](https://t.cn/A6osqlkO) |🟢
 No.<br/>002 | Anki Note<br/>备忘录 | [点击下载](http://t.cn/A6oTR5RT) |🔴
 No.<br/>003 | ProKnockOut<br/>抠图修图P图 | [点击下载](https://t.cn/A6o0jEZ7) |🔴
