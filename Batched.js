@@ -30,7 +30,7 @@ chxm1023.data = {
         "com.advasoft.batched.premium_year_3days_trial_60usd" : {
           "vendor_transaction_id" : "490001271881589",
           "billing_issue_detected_at" : null,
-          "is_lifetime" : true,
+          "is_lifetime" : false,
           "store" : "app_store",
           "vendor_product_id" : "com.advasoft.batched.premium_year_3days_trial_60usd",
           "vendor_original_transaction_id" : "490001271881589",
@@ -58,7 +58,7 @@ chxm1023.data = {
       "paid_access_levels" : {
         "premium" : {
           "id" : "premium",
-          "is_lifetime" : true,
+          "is_lifetime" : false,
           "vendor_product_id" : "com.advasoft.batched.premium_year_3days_trial_60usd",
           "active_promotional_offer_type" : null,
           "cancellation_reason" : null,
