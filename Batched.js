@@ -19,8 +19,7 @@ hostname = api.adapty.io
 
 var chxm1023 = JSON.parse($response.body);
 
-chxm1023 = {
-  "data" : {
+chxm1023.data = {
     "type" : "adapty_analytics_profile",
     "id" : "150ffc20-2126-43bb-ad24-c62c881e4c35",
     "attributes" : {
@@ -31,18 +30,18 @@ chxm1023 = {
         "com.advasoft.batched.premium_year_3days_trial_60usd" : {
           "vendor_transaction_id" : "490001271881589",
           "billing_issue_detected_at" : null,
-          "is_lifetime" : false,
+          "is_lifetime" : true,
           "store" : "app_store",
           "vendor_product_id" : "com.advasoft.batched.premium_year_3days_trial_60usd",
           "vendor_original_transaction_id" : "490001271881589",
           "will_renew" : true,
-          "renewed_at" : "2023-01-25T17:46:05.000000+0000",
+          "renewed_at" : "2023-01-23T09:09:08.000000+0000",
           "cancellation_reason" : null,
           "active_promotional_offer_id" : null,
           "active_promotional_offer_type" : null,
           "unsubscribed_at" : null,
           "is_active" : true,
-          "activated_at" : "2023-01-25T17:46:06.000000+0000",
+          "activated_at" : "2023-01-23T09:09:09.000000+0000",
           "is_refund" : false,
           "is_in_grace_period" : false,
           "active_introductory_offer_type" : "free_trial",
@@ -59,7 +58,7 @@ chxm1023 = {
       "paid_access_levels" : {
         "premium" : {
           "id" : "premium",
-          "is_lifetime" : false,
+          "is_lifetime" : true,
           "vendor_product_id" : "com.advasoft.batched.premium_year_3days_trial_60usd",
           "active_promotional_offer_type" : null,
           "cancellation_reason" : null,
@@ -70,8 +69,8 @@ chxm1023 = {
           "is_active" : true,
           "active_promotional_offer_id" : null,
           "is_in_grace_period" : false,
-          "activated_at" : "2023-01-25T17:46:06.000000+0000",
-          "renewed_at" : "2023-01-25T17:46:05.000000+0000",
+          "activated_at" : "2023-01-23T09:09:09.000000+0000",
+          "renewed_at" : "2023-01-23T09:09:08.000000+0000",
           "is_refund" : false,
           "active_introductory_offer_type" : "free_trial",
           "store" : "app_store",
@@ -80,7 +79,6 @@ chxm1023 = {
       },
       "introductory_offer_eligibility" : false,
       "non_subscriptions" : null
-    }
   }
 };
 
