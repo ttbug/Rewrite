@@ -21,7 +21,7 @@ const vip1 = '/list_purchase_info';
 const vip2 = '/overview';
 const flkj = '/spaces';
 
-if ($request.url。indexOf(vip1) != -1){
+if ($request.url.indexOf(vip1) != -1){
 chxm1023.data["merchandises"] = [
       {
         "sku_key" : "12",
@@ -54,7 +54,7 @@ chxm1023.data["merchandises"] = [
   ];
 }
 
-if ($request.url。indexOf(vip2) != -1){
+if ($request.url.indexOf(vip2) != -1){
   chxm1023["privilege"] = [
     {
       "times" : 541826,
@@ -118,9 +118,8 @@ if ($request.url。indexOf(vip2) != -1){
   };
 }
 
-if ($request.url。indexOf(flkj) != -1){
+if ($request.url.indexOf(flkj) != -1){
   chxm1023["total"] = 1100585369600;
 }
 
-$done({内容 : JSON.stringify(chxm1023)});
-
+$done({body : JSON.stringify(chxm1023)});
