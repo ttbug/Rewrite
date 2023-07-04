@@ -8,11 +8,11 @@
 
 [rewrite_local]
 
-^https:\/\/cubox\.pro\/c\/api\/userInfo url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/Cb.js
+^https:\/\/cubox\.(pro|app)\/c\/api\/userInfo url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/Cb.js
 
 [mitm]
 
-hostname = cubox.pro
+hostname = cubox.*
 
 *************************************/
 
@@ -20,7 +20,6 @@ hostname = cubox.pro
 var body = $response.body;
 var url = $request.url;
 var chxm1023 = JSON.parse(body);
-
 const vip = '/userInfo';
 
 if (url.indexOf(vip) != -1) {
@@ -34,6 +33,5 @@ if (url.indexOf(vip) != -1) {
     chxm1023.data.payTime = 1660006006;
     body = JSON.stringify(chxm1023);
 }
-
 
 $done({body});
