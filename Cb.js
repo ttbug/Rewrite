@@ -2,16 +2,16 @@
 
 项目名称：Cubox-收藏阅读
 下载地址：https://t.cn/A6x4qhyJ
-使用声明：仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
+脚本作者：chxm1023
+电报频道：https://t.me/chxm1023
+使用声明：⚠️仅供参考，🈲转载与售卖！
 
 **************************************
 
 [rewrite_local]
-
 ^https:\/\/cubox\.(pro|app)\/c\/api\/userInfo url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/Cb.js
 
 [mitm]
-
 hostname = cubox.*
 
 *************************************/
