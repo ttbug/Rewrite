@@ -9,7 +9,7 @@
 
 ## 已解锁App下载地址
 
-* **总数量累计：** 253
+* **总数量累计：** 284
 
 * **指示灯：** 永久🟢&emsp;&emsp;非永久🔴&emsp;&emsp;故障灯🟡
 
@@ -82,6 +82,8 @@ No.<br/>066 | MoneyThings<br/>记账APP | [点击下载](https://t.cn/A6NIJZK9) 
 No.<br/>067 | 饭卡-记录饮食<br/>热量卡路里 | [点击下载](https://t.cn/A60P93t8) |🟢
 No.<br/>068 | 贴心记-记录<br/>重要的人和事 | [点击下载](https://t.cn/A60P91Xj) |🟢
 
+
+
 ### iTunes系列<br/>
 | 序号 | Application | Download | 指示灯 |
 | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :---------: |
@@ -136,7 +138,15 @@ No.<br/>083 | 音频剪辑 | [点击下载](https://t.cn/A6pMonHW) |🔴
 No.<br/>084 | MotionNinja | [点击下载](https://t.cn/A69TrSWs) |🔴
 No.<br/>085 | Today日记 | [点击下载](https://t.cn/A6NKldXq) |🔴
 No.<br/>086 | iconser<br/>图标更换 | [点击下载](https://t.cn/A60h7GnC) |🟢
-
+No.<br/>087 | TinyPNG | [点击下载](https://t.cn/A60hZuBp) |🟢
+No.<br/>088 | 测量工具 | [点击下载](https://t.cn/A60hZdE0) |🟢
+No.<br/>089 | 分贝测试仪 | [点击下载](https://t.cn/A60hZkHa) |🟢
+No.<br/>090 | 小红图 | [点击下载](https://t.cn/A60hwyUA) |🟢
+No.<br/>091 | 扫描王 | [点击下载](https://t.cn/A60hwbSK) |🟢
+No.<br/>092 | PutApp<br/>应用收集 | [点击下载](https://t.cn/A6pFrrY7) |🟢
+No.<br/>093 | 录音机 | [点击下载](https://t.cn/A60hAw21) |🟢
+No.<br/>094 | 录音专业版<br/>应用收集 | [点击下载](https://t.cn/A60hA2RH) |🟢
+No.<br/>095 | 拍特内头 | [点击下载](https://t.cn/A60hLTkM) |🔴
 
 
 ### 其他App解锁系列
@@ -251,3 +261,10 @@ No.<br/>111 | Icon Killer | [点击下载](https://t.cn/A6py6nmc) | 🟢
 No.<br/>112 | 字体册 | [点击下载](https://t.cn/A6py6uxY) | 🟢
 No.<br/>113 | 充电助手 | [点击下载](https://t.cn/A6py63ac) | 🔴
 No.<br/>114 | 声波助手 | [点击下载](https://t.cn/A6py610v) | 🟢
+No.<br/>115 | 图纸通 | [点击下载](https://t.cn/A6pbMy8f) |🔴
+No.<br/>116 | Calendars<br/>日历/计划 | [点击下载](https://t.cn/A6Kpq9a6) |🔴
+No.<br/>117 | 微信听书 | [点击下载](https://t.cn/A60hLTkM) |🔴
+No.<br/>118 | 冥想星球 | [点击下载](https://t.cn/A6pmsyPj) |🔴
+No.<br/>119 | WPS Office | [点击下载](https://t.cn/A6KOhd30) |🔴
+No.<br/>120 | 墨迹天气 | [点击下载](https://t.cn/A69ukfNz) |🔴
+No.<br/>121 | Pixelup<br/>AI照片增强器 | [点击下载](https://t.cn/A60PK5CX) |🔴
