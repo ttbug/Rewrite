@@ -72,7 +72,12 @@ No.<br/>056 | 西江诗词 | [点击下载](https://t.cn/A6CFTG1l) |🟢
 No.<br/>057 | Lens智图<br/>画质增强<br/>AI作画 | [点击下载](https://t.cn/A6NIfo7O) |🟢
 No.<br/>058 | Imagex<br/>AI图片改善<br/>图片画质 | [点击下载](https://t.cn/A6NI6KJY) |🟢
 No.<br/>059 | 自动点击器<br/>Auto Clicker | [点击下载](https://t.cn/A6NIJZK9) |🟢
-
+No.<br/>060 | 旺财记账 | [点击下载](https://t.cn/A6pXpoBZ) |🟢
+No.<br/>061 | Diarly日历 | [点击下载](https://t.cn/A6pXNOM5) |🟢
+No.<br/>062 | ChatAI中文<br/>人工智能聊天 | [点击下载](https://t.cn/A6p1ANqR) |🟢
+No.<br/>063 | MoneyThings<br/>记账APP | [点击下载](https://t.cn/A6pg9nPW) |🟢
+No.<br/>064 | SalesCat<br/>RevenueCat客户端 | [点击下载](https://t.cn/A6pFPFKM) |🟢
+No.<br/>065 | MatrixClocca<br/>矩阵时钟 | [点击下载](https://t.cn/A6pFhtw1) |🟢
 
 ### iTunes系列<br/>
 | 序号 | Application | Download | 指示灯 |
