@@ -78,6 +78,9 @@ No.<br/>062 | ChatAI中文<br/>人工智能聊天 | [点击下载](https://t.cn/
 No.<br/>063 | MoneyThings<br/>记账APP | [点击下载](https://t.cn/A6pg9nPW) |🟢
 No.<br/>064 | SalesCat<br/>RevenueCat客户端 | [点击下载](https://t.cn/A6pFPFKM) |🟢
 No.<br/>065 | MatrixClocca<br/>矩阵时钟 | [点击下载](https://t.cn/A6pFhtw1) |🟢
+No.<br/>066 | MoneyThings<br/>记账APP | [点击下载](https://t.cn/A6NIJZK9) |🟢
+No.<br/>067 | 饭卡-记录饮食<br/>热量卡路里 | [点击下载](https://t.cn/A60P93t8) |🟢
+No.<br/>068 | 贴心记-记录<br/>重要的人和事 | [点击下载](https://t.cn/A60P91Xj) |🟢
 
 ### iTunes系列<br/>
 | 序号 | Application | Download | 指示灯 |
