@@ -9,7 +9,7 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/cs\.kuso\.xyz\/configs.+ url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/iscreenfz.js.js
+^https?:\/\/cs\.kuso\.xyz\/configs.+ url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/iscreenfz.js
 
 [mitm]
 hostname = cs.kuso.xyz
