@@ -131,6 +131,12 @@ No.<br/>078 | iScreen<br/>小组件 | [点击下载](https://t.cn/A6MsPY5O) |�
 No.<br/>079 | aDiary<br/>待办日记本 | [点击下载](https://t.cn/A6NiI4mt) |🔴
 No.<br/>080 | 年轮3 | [点击下载](https://t.cn/A6pZiooP) |🟢
 No.<br/>081 | Gemini Photos | [点击下载](https://t.cn/A6p23yIj) |🟢
+No.<br/>082 | PhotoRetouch<br/>消除笔P图 | [点击下载](https://t.cn/A6pbokZp) |🔴
+No.<br/>083 | 音频剪辑 | [点击下载](https://t.cn/A6pMonHW) |🔴
+No.<br/>084 | MotionNinja | [点击下载](https://t.cn/A69TrSWs) |🔴
+No.<br/>085 | Today日记 | [点击下载](https://t.cn/A6NKldXq) |🔴
+No.<br/>086 | iconser<br/>图标更换 | [点击下载](https://t.cn/A60h7GnC) |🟢
+
 
 
 ### 其他App解锁系列
