@@ -3,8 +3,8 @@
 项目名称：Collart
 下载地址：https://t.cn/A6KOxZ9O
 
-项目名称：拼图趣
-下载地址：https://t.cn/A6KOxIoD
+项目名称：AI消除笔-擦除物体
+下载地址：https://t.cn/A60z9xtt
 
 项目名称：睡前故事大全
 下载地址：https://t.cn/A6Uy3Kxo
@@ -17,6 +17,9 @@
 
 项目名称：Pixelance
 下载地址：https://t.cn/A6KOxcj9
+
+项目名称：ShotCut plog/拼图/快拍/海报
+下载地址：https://t.cn/A60z9lu9
 
 使用声明：仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
 
@@ -43,7 +46,7 @@ chxm1023 = {
       },
       "expires_date_ms" : 4092599349000,
       "purchase_date_ms" : 1671198216000,
-      "product_identifier" : "Collart_Promium_Yearly_New_20220808",
+      "product_identifier" : "Collart_Promium_Business_Yearly_Promo_20230612",
       "is_in_intro_offer_period" : false,
       "environment" : "Production",
       "auto_renew" : false,
