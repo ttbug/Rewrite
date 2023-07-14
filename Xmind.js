@@ -19,9 +19,9 @@ hostname = www.xmind.*
 
 
 var chxm1023 = JSON.parse($response.body);
-  chxm1023.raw_data = "f5g8N9+a8Dt298AGhRitN0KohTeeRjBFR4uWMnYSQMQ8LEXN06XRL8lozul9+/UOG4ZQhIaEQMbkMWh2R9uC0YmsTE0NM9tL9DfUrkVo6d8MxdMS9NLZd5nMt7DdvFe01dqnfLGlbm5a4Wd0HKj8Eh8RI0pMnspbxEIEeBJJ2VI=";
+  chxm1023.raw_data = "bKnTeMMu/TJ86ZFoUqG+sfKC1nitD8b/NaUT93UBc0woo0BF5uBVYXsHUQJkQxLHGlZCbdnKaKzZ4iljM9xddkyMycpUbAtDoywnr4RNzxqXY20pDM0Bdgm+HssaS1RworH8aaaf0IYnnGplxIuqMyT9107PrenF0MBUIaKU9Cw=";
   chxm1023.license = {
-    "status": "Trial",
+    "status": "sub",
     "expireTime": 4092599349000
   };
 
