@@ -34,7 +34,6 @@ if (typeof $response == "undefined") {
    "warning": "仅供学习，禁止转载或售卖",
    "original_purchase_date": "2022-09-09T09:09:09Z",
    "purchase_date": "2022-09-09T09:09:09Z",
-   //"expires_date": "2099-09-09T09:09:09Z",
    "ownership_type": "PURCHASED"};
 for (const i in list) { if (new RegExp(`^${i}`, `i`).test(app)) {
   chxm1024.subscriber.subscriptions[list[i].id] = data;
