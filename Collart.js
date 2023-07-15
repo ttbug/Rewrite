@@ -43,7 +43,7 @@ chxm1023 = {
       "is_in_intro_offer_period" : false,
       "environment" : "Production",
       "auto_renew" : false,
-      "is_in_trial_period" : true,
+      "is_in_trial_period" : false,
       "entitlement_id" : "premium"
     }
   ],
