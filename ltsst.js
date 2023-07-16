@@ -17,4 +17,14 @@ hostname = www.1314zhilv.com
 *************************************/
 
 
-var chxm1023 = $response.body.replace(/\"identityType":\d+/g, '\"identityType":2').replace(/\"levDesc":".*?"/g,'\"levDesc":"永久会员"').replace(/\"isActivate":\d+/g,'\"isActivate":1').replace(/\"audioType":\d+/g, '\"audioType":1').replace(/\"isShowMap":\d+/g, '\"isShowMap":1').replace(/\"isMustVisit":\d+/g, '\"isMustVisit":2').replace(/\"isAudition":\d+/g, '\"isAudition":2');$done(chxm1023);
+var body = $response.body
+
+body = body.replace(/\"identityType":\d+/g, '\"identityType":2');
+body = body.replace(/\"levDesc":".*?"/g,'\"levDesc":"永久会员"');
+body = body.replace(/\"isActivate":\d+/g,'\"isActivate":1');
+body = body.replace(/\"audioType":\d+/g, '\"audioType":1');
+body = body.replace(/\"isShowMap":\d+/g, '\"isShowMap":1');
+body = body.replace(/\"isMustVisit":\d+/g, '\"isMustVisit":2');
+body = body.replace(/\"isAudition":\d+/g, '\"isAudition":2');
+
+$done({body});
