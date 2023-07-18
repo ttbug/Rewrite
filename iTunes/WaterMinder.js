@@ -55,7 +55,7 @@ chxm1023 = {
     "version_external_identifier" : 888888888,
     "request_date_ms" : "1686065635000",
     "original_purchase_date_pst" : "2023-06-06 06:00:00 America/Los_Angeles",
-    "application_version" : "864",
+    "application_version" : "866",
     "original_purchase_date_ms" : "1686065430000",
     "receipt_creation_date_ms" : "1686065634000",
     "original_application_version" : "842",
