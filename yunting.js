@@ -9,11 +9,9 @@
 **************************************
 
 [rewrite_local]
-
 (^https?:\/\/(ytmsout|ytapi)\.radio\.cn|60\.205\.171\.165)\/(contentBiz|publish|rights|user\/appUser\/getUserInfo|ytsrv\/srv\/appUser\/getUserInfoH5) url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/yunting.js
 
 [mitm]
-
 hostname = *.radio.cn, 60.205.171.165
 
 *************************************/
