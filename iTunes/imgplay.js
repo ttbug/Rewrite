@@ -23,7 +23,7 @@ chxm1023 = {
   "status" : 0,
   "receipt" : {
     "receipt_type" : "Production",
-    "app_item_id" : 1194582243,
+    "app_item_id" : 989843523,
     "receipt_creation_date" : "2023-06-06 16:06:26 Etc/GMT",
     "bundle_id" : "me.imgbase.imgplay",
     "in_app" : [
@@ -48,7 +48,7 @@ chxm1023 = {
       }
     ],
     "original_purchase_date" : "2023-06-06 16:00:00 Etc/GMT",
-    "adam_id" : 1194582243,
+    "adam_id" : 989843523,
     "receipt_creation_date_pst" : "2023-06-06 06:06:26 America/Los_Angeles",
     "request_date" : "2023-06-06 16:06:27 Etc/GMT",
     "request_date_pst" : "2023-06-06 06:06:27 America/Los_Angeles",
