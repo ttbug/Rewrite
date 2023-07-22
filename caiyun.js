@@ -10,7 +10,6 @@
 
 [rewrite_local]
 ^https?:\/\/(biz|wrapper|ad)\.cyapi\.cn\/(.+\/(user.+|visitors|req|activity)|p\/v\d\/vip_info) url script-response-body caiyun.js
-
 ^http:\/\/adx\.sogaha\.cn\/sdk\/ad\/get url reject-200
 
 [mitm]
