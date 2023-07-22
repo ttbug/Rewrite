@@ -20,7 +20,7 @@ hostname = yopu.co
 
 var chxm1023 = JSON.parse($response.body);
 
-chxm1023.level = 2;
+chxm1023.level = 1;
 chxm1023.isMember = true;
 chxm1023.adsDisabled = true;
 chxm1023.adsDisabledTill = 4092599349000;
