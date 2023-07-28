@@ -27,20 +27,20 @@ chxm1023 = {
   },
   "payload": {
     "is_intro_offer": true,
-    "latest_transaction_id": "330000667395893",
+    "latest_transaction_id": "300001314520000",
     "active": true,
     "is_renewal": false,
     "expires_at": 4092599349000,
     "auto_renew_status": "1",
     "grace_expires_at": 4092599349000,
-    "product_id": "pixelup.pro.freetrial.1week.t4",
+    "product_id": "pixelup.pro.freetrial.1year.t1",
     "is_in_grace": true,
-    "started_at": 1688560887000,
+    "started_at": 1666666666666,
     "purchased_product_identifiers": [
-      "pixelup.pro.freetrial.1week.t4"
+      "pixelup.pro.freetrial.1year.t1"
     ],
-    "latest_transaction_time": 1688560885000,
-    "subscription_id": "330001446268097",
+    "latest_transaction_time": 1666666666666,
+    "subscription_id": "300001314520000",
     "is_trial": true,
     "is_family_share": true
   }
