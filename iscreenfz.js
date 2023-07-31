@@ -26,4 +26,4 @@ body = body.replace(/"rewardAd":\d+/g,'"rewardAd":0');
 body = body.replace(/"mainPop_open":\d+/g,'"mainPop_open":1');
 body = body.replace(/"vipPopupType":\d/g,'"vipPopupType":2');
 
-$done(body);
+$done({body});
