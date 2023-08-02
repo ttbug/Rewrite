@@ -16,7 +16,7 @@ hostname = splice.oracle.bendingspoonsapps.com
 
 *************************************/
 
-
+var chxm1023 = JSON.parse($response.body);
 chxm1023["me"]["active_subscriptions_ids"] = ["com.path36.SpliceFree.1y_t150_bundle"];
 chxm1023["me"]["active_bundle_subscriptions"] = [{
    "expiry" : "2099-09-09T09:09:09+00:00",
