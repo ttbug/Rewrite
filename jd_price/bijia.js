@@ -1,7 +1,7 @@
 /*************************************
 
 JD Price comparison
-by Small
+by mall
 date 2021-06-25
 Thanks @yichahucha
 
