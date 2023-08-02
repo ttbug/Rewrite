@@ -18,9 +18,9 @@ hostname = api.m.jd.com
 const ScriptName = "京东比价";
 const $ = new Env(ScriptName);
 
-const ScriptIdentifier = "jd_tb_price";
+const ScriptIdentifier = "jd_price";
 const ScriptVersion = 8;
-const ScriptUrl = `https://service.2ti.st/QuanX/Script/${ScriptIdentifier}`
+const ScriptUrl = `https://github.com/chxm1023/Rewrite/${ScriptIdentifier}`
 
 const res = $request;
 const resp = isUndefined($response) ? null : $response;
