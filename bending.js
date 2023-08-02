@@ -10,7 +10,7 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/.*\.oracle\.bendingspoonsapps\.com\/v\d\/(users\/setup|purchases\/verify) url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/bending.js
+^https?:\/\/.*\.oracle\.bendingspoonsapps\.com\/v\d\/(users\/.+|purchases\/verify) url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/bending.js
 
 [mitm]
 hostname = *.oracle.bendingspoonsapps.com
@@ -41,3 +41,4 @@ chxm1023["me"]["active_bundle_subscriptions"] = [{
   }];
 chxm1023["settings"]["__identity__"]["expiration"] = "2099-09-09T09:09:09+00:00";
 $done({body : JSON.stringify(chxm1023)});
+}
