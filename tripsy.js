@@ -9,7 +9,7 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/firstclass\.tripsy\.app\/api\/v\d\/receipt\/update url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/tripsy.js
+^https?:\/\/firstclass\.tripsy\.app\/api\/.+\/receipt\/update url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/tripsy.js
 
 [mitm]
 hostname = firstclass.tripsy.app
