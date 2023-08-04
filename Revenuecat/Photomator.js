@@ -22,7 +22,7 @@ const chxm1023 = {};
 const chxm1024 = JSON.parse(typeof $response != "undefined" && $response.body || null);
 
 const name = "pixelmator_photo_pro_access";
-const chxm = "pixelmator_photo_pro_subscription_v1";
+const chxm = "pixelmator_photo_lifetime_v1_pro_offer";
 
   
 if (typeof $response == "undefined") {
