@@ -22,7 +22,7 @@ const chxm1023 = {};
 const chxm1024 = JSON.parse(typeof $response != "undefined" && $response.body || null);
 
 const name = "pixelmator_photo_pro_access";
-const chxm = "pixelmator_photo_lifetime_v1";
+const chxm = "pixelmator_photo_pro_subscription_v1";
 
   
 if (typeof $response == "undefined") {
@@ -42,7 +42,7 @@ if (typeof $response == "undefined") {
  "Telegram" : "https://t.me/chxm1023",
  "warning": "仅供学习，禁止转载或售卖",
  "original_purchase_date": "2022-09-09T09:09:09Z",
- "period_type" : "trial",
+ "period_type" : "1",
  "purchase_date": "2022-09-09T09:09:09Z",
  //"expires_date": "2099-09-09T09:09:09Z",
  "store" : "app_store",
