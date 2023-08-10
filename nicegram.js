@@ -18,6 +18,6 @@ hostname = restore-access.indream.app
 
 
 const isQX = typeof $task != "undefined";
-const chxm1023 = {"data" : {"premiumAccess" : true}};
+const chxm1023 = {"data":{"premiumAccess": true}};
 console.log('已操作成功🎉\n叮当猫の分享频道: https://t.me/chxm1023');
 $done({status: isQX ? "HTTP/1.1 200 OK" : 200, headers: $response.headers, body: JSON.stringify(chxm1023)});
