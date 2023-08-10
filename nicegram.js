@@ -32,5 +32,5 @@ const isShad = typeof $rocket !== "undefined";
 const isStash = typeof $stash !== "undefined";
 
 console.log('已操作成功🎉\n叮当猫の分享频道: https://t.me/chxm1023');
-if (isQX && isStash) { chxm1024 = "HTTP/1.1 200 OK";} else {chxm1024 = 200;}
+if (isQX) { chxm1024 = "HTTP/1.1 200 OK";} else {chxm1024 = 200;}
 $done({status: (chxm1024), headers: $response.headers, body : JSON.stringify(chxm1023)});
