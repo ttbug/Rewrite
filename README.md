@@ -16,7 +16,7 @@
 <details>
    <summary> Revenuecat系列解锁 </summary>
 | 序号 | Application | Download | 指示灯 |
-| :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :---------: |
+| :-----: | :-----: | :-----: | :-----: |
 No.<br/>001 | [Fileball](https://raw.githubusercontent.com/chxm1023/Rewrite/main/fileball.js) <br/>(新版已失效)| [点击下载](https://t.cn/A6ScGy9g) |🟡
 No.<br/>002 | VSCO<br/>照片视频编辑 | [点击下载](https://t.cn/AiOSSyU9) |🟢
 No.<br/>003 | 1Blocker<br/>广告拦截 | [点击下载](https://t.cn/A6V7PAjE) |🟢
