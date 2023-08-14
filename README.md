@@ -15,6 +15,7 @@
 
 <details>
    <summary> Revenuecat系列解锁 </summary>
+
 | 序号 | Application | Download | 指示灯 |
 | -- | ----- | ----- | ----- |
 |No.<br/>001 | [Fileball](https://raw.githubusercontent.com/chxm1023/Rewrite/main/fileball.js) <br/>(新版已失效)| [点击下载](https://t.cn/A6ScGy9g) |🟡
@@ -88,6 +89,7 @@
 
 <details>
    <summary> iTunes系列解锁 </summary>
+
 | 序号 | Application | Download | 指示灯 |
 | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :---------: |
 |No.<br/>001 | TextEditor<br/>文件管理 |[点击下载](https://t.cn/A6osqlkO) |🟢
@@ -156,6 +158,7 @@
 
 <details>
    <summary> 散装APP解锁 </summary>
+
 | 序号 | Application | Download | 指示灯 |
 | :-----------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :---------: |
 |No.<br/>001 | Nicegram<br/>Tg电报 | [点击下载](https://t.cn/A6ou0MCe) | 🟢
