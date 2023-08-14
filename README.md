@@ -11,7 +11,7 @@
 
 * **总数量累计：** 284
 
-* ***指示灯：*** 永久🟢&emsp;&emsp;非永久🔴&emsp;&emsp;故障灯🟡
+* **指示灯：** 永久🟢&emsp;&emsp;非永久🔴&emsp;&emsp;故障灯🟡
 
 <details>
    <summary> Revenuecat系列解锁 </summary>
@@ -83,6 +83,16 @@
 |No.<br/>066 | MoneyThings<br/>记账APP | [点击下载](https://t.cn/A6NIJZK9) |🟢
 |No.<br/>067 | 饭卡-记录饮食<br/>热量卡路里 | [点击下载](https://t.cn/A60P93t8) |🟢
 |No.<br/>068 | 贴心记-记录<br/>重要的人和事 | [点击下载](https://t.cn/A60P91Xj) |🟢
+|No.<br/>069 | MOZE-记账 | [点击下载](https://t.cn/A60ABDWL) |🟢
+|No.<br/>070 | 已阅-书籍<br/>电影/电视剧记录 | [点击下载](https://t.cn/A60L5dGz) |🟢
+|No.<br/>071 | 车票票 | [点击下载](https://t.cn/A60ydwfR) |🟢
+|No.<br/>072 | Falendar日历 | [点击下载](https://t.cn/A60yr9lY) |🟢
+|No.<br/>073 | LEMO FM睡眠 | [点击下载](https://t.cn/A60re2xb) |🟢
+|No.<br/>074 | 解忧娃娃 | [点击下载](https://t.cn/A6UHFub0) |🟢
+|No.<br/>075 | StressWatch<br/>压力自测提醒 | [点击下载](https://t.cn/A60aLBxu) |🟢
+|No.<br/>076 | Thiro | [点击下载](https://t.cn/A60reJsi) |🟢
+|No.<br/>077 | 解压动画 | [点击下载](https://t.cn/A60reCFO) |🟢
+|No.<br/>078 | Photomator | [点击下载](https://t.cn/A60reCFO) |🟢
 
 </details>
 
