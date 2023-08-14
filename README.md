@@ -17,7 +17,7 @@
    <summary> Revenuecat系列解锁 </summary>
 
 | 序号 | Application | Download | 指示灯 |
-| -- | ----- | ----- | ----- |
+| :--: | :-----: | :-----: | :-----: |
 |No.<br/>001 | [Fileball](https://raw.githubusercontent.com/chxm1023/Rewrite/main/fileball.js) <br/>(新版已失效)| [点击下载](https://t.cn/A6ScGy9g) |🟡
 |No.<br/>002 | VSCO<br/>照片视频编辑 | [点击下载](https://t.cn/AiOSSyU9) |🟢
 |No.<br/>003 | 1Blocker<br/>广告拦截 | [点击下载](https://t.cn/A6V7PAjE) |🟢
@@ -91,7 +91,7 @@
    <summary> iTunes系列解锁 </summary>
 
 | 序号 | Application | Download | 指示灯 |
-| -- | ----- | ----- | ----- |
+| :--: | :-----: | :-----: | :-----: |
 |No.<br/>001 | TextEditor<br/>文件管理 |[点击下载](https://t.cn/A6osqlkO) |🟢
 |No.<br/>002 | Anki Note<br/>备忘录 | [点击下载](http://t.cn/A6oTR5RT) |🔴
 |No.<br/>003 | ProKnockOut<br/>抠图修图P图 | [点击下载](https://t.cn/A6o0jEZ7) |🔴
@@ -100,7 +100,7 @@
 |No.<br/>006 | VPN unlimited | [点击下载](https://t.cn/A6iC6kaY) |🟢
 |No.<br/>007 | Picsew截长图 | [点击下载](http://t.cn/Aig753CC) |🟢
 |No.<br/>008 | Panda Widget<br/>小组件 | [点击下载](https://t.cn/A6oupKTt) |🟢
-|No.<br/>009<br/>-<br/>|No.<br/>044 |计算器Air<br/>立即翻译<br/>键盘<br/>立即翻译<br/>QrScan<br/>二维码Air <br/>翻译照片<br/>Find Air <br/>填色本Air<br/>Scanner Air<br/>笔记Air<br/>脚步Air <br/>拼贴画Air<br/>饥饿Air<br/>BeLingual<br/>Widgetbot<br/>天气Air<br/>OweMe<br/>Pixit<br/>H2O<br/>字体Air<br/>Speech Air<br/>习惯Air<br/>Quotes Air<br/>循環Air<br/>计划Air<br/>PDF Air<br/>Story Air<br/>期刊 Air<br/>用度 Air<br/>植物 Air<br/>密码 Air<br/>字典空气 Air<br/>传真Air<br/>设计 Air<br/>卡路里Air | [点击下载](https://t.cn/A6CP7ofw) |🔴
+|No.<br/>009<br/>-<br/>No.<br/>044 |计算器Air<br/>立即翻译<br/>键盘<br/>立即翻译<br/>QrScan<br/>二维码Air <br/>翻译照片<br/>Find Air <br/>填色本Air<br/>Scanner Air<br/>笔记Air<br/>脚步Air <br/>拼贴画Air<br/>饥饿Air<br/>BeLingual<br/>Widgetbot<br/>天气Air<br/>OweMe<br/>Pixit<br/>H2O<br/>字体Air<br/>Speech Air<br/>习惯Air<br/>Quotes Air<br/>循環Air<br/>计划Air<br/>PDF Air<br/>Story Air<br/>期刊 Air<br/>用度 Air<br/>植物 Air<br/>密码 Air<br/>字典空气 Air<br/>传真Air<br/>设计 Air<br/>卡路里Air | [点击下载](https://t.cn/A6CP7ofw) |🔴
 |No.<br/>045 | 压缩软件 | [点击下载](https://t.cn/A6KVDlFZ) |🟢
 |No.<br/>046 | 一键水印 | [点击下载](https://t.cn/A6KoN4rd) |🟢
 |No.<br/>047 | 一寸证件照 | [点击下载](https://t.cn/A6KoNG6A) |🟢
@@ -160,7 +160,7 @@
    <summary> 散装APP解锁 </summary>
 
 | 序号 | Application | Download | 指示灯 |
-| -- | ----- | ----- | ----- |
+| :--: | :-----: | :-----: | :-----: |
 |No.<br/>001 | Nicegram<br/>Tg电报 | [点击下载](https://t.cn/A6ou0MCe) | 🟢
 |No.<br/>002 | 绘影字幕 | [点击下载](https://t.cn/A6oe27Yx) | 🔴
 |No.<br/>003 | 熊猫壁纸 | [点击下载](https://t.cn/A6ou0ipN) | 🔴
