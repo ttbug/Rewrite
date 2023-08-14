@@ -273,7 +273,7 @@
 |No.<br/>084 | 一天阅读 | [点击下载](https://t.cn/A6C6jqJt) | 🔴
 |No.<br/>085 | 小时尚 | [点击下载](https://t.cn/A6Xr4Kjn) | 🔴
 |No.<br/>086 | 计算器HD | [点击下载](http://t.cn/A6xF7wam) | 🔴
-|No.<br/>087<br/>-<br/>|No.<br/>092 | 万能播放器<br/>万能变声器<br/>塔罗牌<br/>Art Widget(小组件)<br/>memo(标签小组件)<br/>NFC(标签读写器工具) | [点击下载](https://t.cn/A6CojaZe) | 🔴
+|No.<br/>087<br/>-<br/>No.<br/>092 | 万能播放器<br/>万能变声器<br/>塔罗牌<br/>Art Widget(小组件)<br/>memo(标签小组件)<br/>NFC(标签读写器工具) | [点击下载](https://t.cn/A6CojaZe) | 🔴
 |No.<br/>093 | 薄荷健康 | [点击下载](https://t.cn/A69ull4r) | 🔴
 |No.<br/>094 | 菜谱大全 | [点击下载](https://t.cn/AijzV2It) | 🔴
 |No.<br/>095 | 烘培小屋 | [点击下载](https://t.cn/AipIBR88) | 🔴
