@@ -174,11 +174,10 @@
 |No.<br/>105 | 小组件盒子 | [点击下载](https://t.cn/A6oDCwJ6) |🔴
 |No.<br/>106 | 168轻断食 | [点击下载](https://t.cn/A6aqR0v9) |🟢
 |No.<br/>107 | 订阅通 | [点击下载](https://t.cn/A60orvGU) |🟢
-|No.<br/>108 | 格志日记 | [点击下载](https://t.cn/A6oDgPyl) |🔴
-|No.<br/>109 | Motivation<br/>每日励志金句 | [点击下载](https://t.cn/A6otsotI) |🟢
-|No.<br/>110 | xTerminal<br/> | [点击下载](https://t.cn/A60rkXqN) |🟢
-|No.<br/>111 | 最后一卷胶片 | [点击下载](https://t.cn/AirlsPAZ) |🟢
-|No.<br/>112 | Fotoz<br/>图片下载器 | [点击下载](https://t.cn/A60EJZOq) |🟢
+|No.<br/>108 | Motivation<br/>每日励志金句 | [点击下载](https://t.cn/A6otsotI) |🟢
+|No.<br/>109 | xTerminal<br/> | [点击下载](https://t.cn/A60rkXqN) |🟢
+|No.<br/>110 | 最后一卷胶片 | [点击下载](https://t.cn/AirlsPAZ) |🟡
+|No.<br/>111 | Fotoz<br/>图片下载器 | [点击下载](https://t.cn/A60EJZOq) |🟢
 </details>
 
 
@@ -269,7 +268,7 @@
 |No.<br/>080 | 倒数纪念日 | [点击下载](https://t.cn/A6t6nFst) | 🔴
 |No.<br/>081 | 青柠设计<br/>P图抠图海报 | [点击下载](https://t.cn/A69gPvA3) | 🔴
 |No.<br/>082 | 配音秀 | [点击下载](https://t.cn/A6hiqy80) | 🔴
-|No.<br/>083 | 蓝基因 | [点击下载](https://t.cn/A6CMvGPe) | 🔴
+|No.<br/>083 | 蓝基因 | [点击下载](https://t.cn/A6CMvGPe) | 🟡
 |No.<br/>084 | 一天阅读 | [点击下载](https://t.cn/A6C6jqJt) | 🔴
 |No.<br/>085 | 小时尚 | [点击下载](https://t.cn/A6Xr4Kjn) | 🔴
 |No.<br/>086 | 计算器HD | [点击下载](http://t.cn/A6xF7wam) | 🔴
@@ -317,6 +316,13 @@
 |No.<br/>133 | Pixelup<br/>AI照片增强器 | [点击下载](https://t.cn/A60PK5CX) |🔴
 |No.<br/>134<br/>-<br/>No.<br/>143 | 解锁10个APP：<br/>Filmicpro<br/>Focos<br/>Focos live<br/>Splice<br/>30 Day Fitness<br/>Sleep<br/>Remini<br/>Yoga Wave<br/>Firstlight<br/>Doubletake | [点击下载](https://t.cn/AiE8fHDr) |🔴
 |No.<br/>144 | 女性日记Flo | [点击下载](https://too.st/5AF) |🔴
-|No.<br/>145 | 训记<br/>6.11.07 | [点击下载](https://t.cn/A6KxVgzG) |🔴
+|No.<br/>145 | 训记<br/>6.11.07 | [点击下载](https://t.cn/A6KxVgzG) |🟡
 |No.<br/>146 | 考途大学搜题 | [点击下载](https://too.st/5AE) |🔴
+|No.<br/>147 | Endel<br/>睡眠APP | [点击下载](https://t.cn/A60WXk6k) |🔴
+|No.<br/>148 | 格志日记 | [点击下载](https://t.cn/A6oDgPyl) |🔴
+|No.<br/>149 | Tripsy<br/>旅行规划者 | [点击下载](https://t.cn/A60jMYum) |🔴
+|No.<br/>150 | 泼辣修图 | [点击下载](https://t.cn/A60Q8wwl) |🔴
+|No.<br/>151 | Goodnotes6 | [点击下载](https://t.cn/A6K6ZSZS) |🟢
+|No.<br/>152 | 牛津高阶<br/>词典第十版 | [点击下载](https://too.st/5AO) |🔴
+
 </details>
